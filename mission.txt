@@ -1,3 +1,8 @@
 uzi
+<<<<<<< HEAD
+Status: Blocked - waiting for equipment
+gg
+=======
 Status: Completed by David
 
+>>>>>>> origin/master
